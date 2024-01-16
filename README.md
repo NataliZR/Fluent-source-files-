@@ -1,5 +1,6 @@
 # Fluent-source-files-
 This repository contains Ansys Fluent source files for conducting fluid dynamics simulations. The files are designed to model a lava dome growth using the geometry that approximates the horizontal propagation of the lava dome at Volcán de Colima. 
+
 Description
 
 The Fluent source files provided here are tailored for simulating experiment 4.2, as outlined in Zeinalova et al., 2024 (https://doi.org/10.1093/gji/ggad415). This simulation focuses on a 2D laminar, incompressible, two-phase, immiscible viscous fluid flow, representing the extrusion of the lava (phase 2) into the air (phase 1). The model incorporates the nonlinear convective and radiative heat transfer at the lava–air interface, along with considerations for the latent heat of crystallization. Additionally, the simulation accounts for temperature-dependent volume fraction of crystals at the equilibrium state (phi_eq). 
